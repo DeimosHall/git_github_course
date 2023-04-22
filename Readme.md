@@ -6,3 +6,4 @@
 - George Flamel (^o^)
 - rodrigogalvez: MSc. Informática Médica
 - IgmeMarcial : Add new code
+- Eduardo Hernandez :3
